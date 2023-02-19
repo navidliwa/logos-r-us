@@ -1,22 +1,26 @@
 {
     "name": "logos-r-us",
     "version": "1.0.0",
-    "description": "",
+    "description": "Command line program that generates an svg logo based upon user input.",
     "main": "index.js",
     "scripts": {
-      "test": "jest"
+        "start": "node index.js",
+        "test": "jest"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/navidliwa/readme-for-me.git"
+        "type": "git",
+        "url": "git+https://github.com/navidliwa/logos-r-us.git"
     },
     "author": "navidliwa",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
-      "url": "https://github.com/navidliwa/logos-r-us/issues"
+        "url": "https://github.com/navidliwa/logos-r-us/issues"
     },
     "homepage": "https://github.com/navidliwa/logos-r-us#readme",
     "dependencies": {
-      "inquirer": "^8.2.4"
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^28.1.3"
     }
-  }
+}
