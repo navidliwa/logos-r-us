@@ -1,0 +1,22 @@
+{
+    "name": "readme-for-me",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/navidliwa/readme-for-me.git"
+    },
+    "author": "navidliwa",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/navidliwa/readme-for-me/issues"
+    },
+    "homepage": "https://github.com/navidliwa/readme-for-me#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }
