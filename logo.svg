@@ -1,8 +1,8 @@
 
                 <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-                            
-        <polygon points="150 0, 50 200, 250 200" fill="red"/>
+                    
+        <circle cx="150" cy="100" r="100" fill="red"/>
         
-                    <text x="50%" y="50%" fill="white" font-size="100" dominant-baseline="middle" text-anchor="middle">red</text>
+                    <text x="50%" y="50%" fill="whtie" font-size="100" dominant-baseline="middle" text-anchor="middle">2</text>
                 </svg>
                 
