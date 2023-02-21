@@ -3,6 +3,6 @@
                     
         <circle cx="150" cy="100" r="100" fill="red"/>
         
-                    <text x="50%" y="50%" fill="whtie" font-size="100" dominant-baseline="middle" text-anchor="middle">2</text>
+                    <text x="50%" y="50%" fill="white" font-size="100" dominant-baseline="middle" text-anchor="middle">red</text>
                 </svg>
                 
