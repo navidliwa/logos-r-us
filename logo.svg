@@ -1,8 +1,16 @@
 
                 <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
                     
-        <circle cx="150" cy="100" r="80" fill="red"/>
+        <polygon points="150 18, 244 182, 56 182" fill="green"/>
         
-                    <text x="50%" y="50%" fill="white" font-size="80" dominant-baseline="middle" text-anchor="middle">IRS</text>
+                    <text 
+                    x="50%" 
+                    y="50%" 
+                    fill="white" 
+                    font-size="80" 
+                    dominant-baseline="middle" 
+                    text-anchor="middle">
+                        AMV
+                    </text>
                 </svg>
                 

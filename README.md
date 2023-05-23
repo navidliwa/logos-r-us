@@ -4,7 +4,7 @@
 
 
 ## Description
-This CLI program lets you generate an SVG Logo based on answers to prompts given through the command line! You're able to input up to 3 letters for your logo, add any color for the text, add any color for the background shape, and choose a circle, triangle, or square as the background shape. The program will take these inputs and create an svg file populated accordingly to those specifications. [Click here for a video demonstrating README for Me's usage!]()
+This CLI program lets you generate an SVG Logo based on answers to prompts given through the command line! You're able to input up to 3 letters for your logo, add any color for the text, add any color for the background shape, and choose a circle, triangle, or square as the background shape. The program will take these inputs and create an svg file populated accordingly to those specifications. [Click here for a video demonstrating README for Me's usage!](https://www.youtube.com/watch?v=Bmy5yT44JZk)
 
 
 ## Table of Contents
